@@ -30,7 +30,7 @@ layout: home
 Atiqur Rahman Rasel is a 3rd year Phd candiate at the University of Technology Sydney. His main research interests include behavioral finance, market microstructure, cryptocurrencies and experimental economics. Atiqur has been working as a graduate research assistant since July 2020 on different research projects in the field of market microstructure and corporate finance.
 <br/>
 
-<a href="cv.pdf">CV</a>
+<!-- <a href="cv.pdf">CV</a> -->
 
 <br/>
 <br/>
