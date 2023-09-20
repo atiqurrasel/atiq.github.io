@@ -4,38 +4,21 @@ title:  "Research"
 ---
 
 ### Working Papers:
-#### Measuring Manufacturing and Process Innovation, Application to Productivity and Growth *(Under Review)*
-*(with Elvira Sojli and Wing Wah Tham)*
+#### Contagious crime: How cryptocurrency manipulation spills into stocks ”, Working Paper.*(Under Review)*
+*(with Talis Putnins and Anirudh Dhawan)*
 
-We propose new time-varying measures of advanced manufacturing and process innovations based on patent invention claims and titles from 1850 to 2019 across 51 countries. Using this measure, we provide evidence that these innovations are important for firm and aggregate economic growth through technological spillover to product innovations and increased profitability. We find that patents with advanced processes have higher forward citations and economic value than product patents of the same technology class and cohort. Firms with higher quality process innovation are associated with higher profits, sales, capital, employment, and total factor productivity in the short run, while product innovation plays a larger role in the longer run. At the aggregate level, both advanced manufacturing and product innovations are positively related to US economic growth. In cross-country analysis, we find that product innovation is more important than process innovation for emerging countries with low labor costs for growth convergence towards the US economy, but the opposite holds for productivity.
+We show that a type of market manipulation popularized in cryptocurrency markets is now also found in stock markets, an effect we term “crime contagion”. Manipulators gather traders in pseudo-anonymous online forums (e.g., Telegram) where they co-ordinate pump-and-dump attacks on stocks, mirroring schemes conceived in cryptocurrencies. We find such manipulations in Australia, India, and the US during 2020–2022. They generate millions of dollars of trading and returns of 26%–107%. We find direct regulatory intervention in forums is effective in curbing this activity. The findings illustrate a negative externality of unregulated markets: breeding misconduct that spills into other markets.
 
-__Conferences__
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4506293">SSRN version</a>
+#### Obscure disclosures: Strategic information concealment by substantial shareholders 
+*(with Talis Putnins, Sean Foley, and Vinay Patel)*
 
-  AEA (American Economic Association), 2023 AIEA-NBER Conference on Innovation and Entrepreneurship 2022, ABFER (Asian Bureau of Finance and Economic Research) 2022, CEPR (Centre for Economic Policy Research) Rising Asia 2022, EARIE (European Association for Research in Industrial Economics) 2022, SEM (The Society for Economic Measurement) 2022, RMI (Research Management Institute) 2022, SETA (Symposium on Econometric Theory and Applications) 2022, AFBC 2022, FRIN Corporate Finance 2022, FMCG (Financial Market and Corporate Governance), 2022 Asian Innovation Economics Conference 2021 (invitation-only), Business Financing and Banking Research Group Annual Workshop 2021 (invitation-only), Macroeconomics Reading Group Workshop 2021 (invitation-only)
+#### On the predictive power of tweet sentiments and attention on bitcoin*
+*(Sandy Suardi and Bin Liu)* 
 
-#### Common Ownership and Antitrust Enforcement: Evidence from the Court 
-*(with Huaizhou Li, Ronald Masulis and Jason Zein)*
+This paper investigates the predictive power of information contained in social media tweets on bitcoin market dynamics. Using Valence Aware Dictionary for Sentiment Reasoning (VADER), we extract useful information from tweets and construct two factors – sentiment dispersion (SD) and investor attention (IA) – to test their predictive power. We show that investors face greater return volatility for rising sentiment dispersion associated with more significant market uncertainty. Further, IA is found to predict bitcoin trading volume but not returns and volatility. Finally, we design an IA-induced trading strategy that yields superior performance to the passive buy-and-hold strategy in 2018. However, it does not deliver superior performance in other years during the sample period suggesting that investor attention alone as a trading parameter does not produce superior performance over the long term.
 
-An increasing number of publicly-owned rival firms are jointly held by a small group of large investors. This has led to serious concerns regarding the anti-competitive effects of such common ownership. We investigate U.S. antitrust legal cases to see if common ownership leads to serious antitrust concerns. We empirically show that there is a significant positive relationship between common ownership and the probability that a pair of firms face the same antitrust prosecution. We use mergers between financial institutions as exogenous variations in common ownership to provide causal evidence on this proposed relation. In addition, we find that existing level of antitrust enforcement is unlikely to deter the anti-competitive effect of common ownership.
-
-__Conferences__
-FIRN 2022, FMA Asia 2022, CELS (Conference for Empirical Legal Studies) 2022, AFBC 2022, FMCG (Financial Market and Corporate Governance) 2022 (Runner-up for Best paper in Corporate Finance)
-
-#### Is ESG a Management Style? *(under review)*
-*(with Tony Cai, Jason Zein and Hao Zhang)* 
-
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4266516">SSRN version</a>
-
-Can better firm ESG policies be attributed to a CEO’s style? We find that firms led by CEOs with not-for-profit sector work experience (socially engaged CEOs) possess better ESG ratings and superior real ESG outcomes. They receive higher satisfaction ratings from their employees, develop more green innovations, and have lower harmful emissions. Mirroring the rise of ESG, the proportion of socially engaged CEOs has increased four-fold over the last 20 years. While corporate boards appear to be increasingly selecting these CEOs to enhance their ESG performance, we show that these effects can, to some extent, also be attributed to a causal CEO style. Overall, our results suggest that career experience serving the interests of a broader group of stakeholders in the not-for-profit setting better equips CEOs to achieve corporate ESG objectives
-
-__Conferences__
-FMA Asia 2022, AFBC 2022
-
-### A New CEO General Ability Index
-*(with Lixiong Guo and Shawn Mobbs)*
-
-__Conferences__
-  FMA 2017 (Semi-final for best paper award), CAFM 2017, AFBC 2017
+<a href="https://www.sciencedirect.com/science/article/pii/S1059056022000375">published version</a>
 
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
