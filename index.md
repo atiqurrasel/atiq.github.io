@@ -40,14 +40,8 @@ Atiqur Rahman Rasel is a 3rd year Phd candiate at the University of Technology S
 
 
 <div class="right">
-<img src="leo.png" width="200" style="float:right">
+<img src="profile pic 2.jpg" width="200" style="float:right">
 </div>
 </div>
 
-<h3> What's New?</h3>
-
-
-<p>April 2022:  I will be presenting my advanced manufacturing paper in society for economic measurement conference in August. Never been to Canada, very excited. Also I presented & discussed in FMCG from Monash University. Good that my co-author Will Li also presented our paper on common ownership and we won the run-up for best paper award!</p>
-
-
-
+<h3> Coming next !! </h3>
