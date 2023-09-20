@@ -27,7 +27,7 @@ layout: home
 
 <div class="row">
 <div class="left">
-Leo is a lecturer (assistant professor) of finance at the University of Technology, Sydney. My main research interests are innovation, entrepreneurship and organization studies. I am interested in measuring innovation and studying how innovation affects firm value, economic growth and productivity. I am also interested in how CEO management style, characteristics and skills lead to different firm policies and outcomes. In addition, I apply advanced statistical and machine learning techniques in applied finance, economics and management studies.
+Atiqur Rahman Rasel is a 3rd year Phd candiate at the University of Technology Sydney. His main research interests include behavioral finance, market microstructure, cryptocurrencies and experimental economics. Atiqur has been working as a graduate research assistant since July 2020 on different research projects in the field of market microstructure and corporate finance.
 <br/>
 <a href="cv.pdf">CV</a>
 
@@ -46,17 +46,6 @@ Leo is a lecturer (assistant professor) of finance at the University of Technolo
 
 <h3> What's New?</h3>
 
-<h4> 2023 </h4>
-<p>April 2022: My paper on Green Innovation got into CICF 2023 in Shanghai! </p>
-
-<h4> 2022 </h4>
-<p>Sep 2022: Busy with Conferences: My Common Ownership Paper got into FIRN 2022, see you in Hamilton Island! Three papers got into FMA Asia in Melbourne and AFBC in Sydney, two conferences in a row in December!
-
-<p>July 2022: My advanced manufacturing paper got into AEA (American Economic Association) 2023 conference in New Orleans! </p>
-
-<p>June 2022: My advanced manufacturing paper got into AIEA-NBER conference. My first NBER conference ^^. It has also been presented in the ABFER, Thanks to Professor Po-Hsuan Hsu for great feedback!</p>
-
-<p>May 2022:  My advanced manufacturing paper got into CEPR Rising Asia conference. Pitty it's online, wanted to go to Japan again!</p>
 
 <p>April 2022:  I will be presenting my advanced manufacturing paper in society for economic measurement conference in August. Never been to Canada, very excited. Also I presented & discussed in FMCG from Monash University. Good that my co-author Will Li also presented our paper on common ownership and we won the run-up for best paper award!</p>
 
