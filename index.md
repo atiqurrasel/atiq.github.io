@@ -32,7 +32,7 @@ layout: home
   </div>
 
   <div class="right">
-    <img src="profile_pic_2.jpg" width="200" alt="Profile picture of Atiqur Rahman Rasel">
+    <img src="profile pic 2.jpg" width="200" alt="Profile picture of Atiqur Rahman Rasel">
   </div>
 </div>
 
