@@ -4,20 +4,18 @@ title:  "Research"
 ---
 
 ### Working Papers:
-#### Contagious crime: How cryptocurrency manipulation spills into stocks ”, Working Paper.* (Under Review)*
+#### Contagious crime: How cryptocurrency manipulation spills into stocks ”, Working Paper (Under Review).
 *(with Talis Putnins and Anirudh Dhawan)*
 
 We show that a type of market manipulation coordinated on pseudo-anonymous online forums (e.g., Telegram) and popularized in cryptocurrency markets has now spread to stock markets. These manipulations occur in Australia, India, and the US during 2020–2022 and generate millions of dollars of volume and large returns of 17%–107%. These manipulations are unique in that manipulators do not always explicitly deceive their victims. We also show that direct regulatory intervention in forums is effective in curbing this activity. The findings illustrate a negative externality of unregulated markets: breeding market manipulation that spills into other markets.
 
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4506293">SSRN version</a>
-#### Obscure disclosures: Strategic information concealment by substantial shareholders, Working Paper.
-*(with Talis Putnins, Sean Foley, and Vinay Patel)*
 #### Experimental evidence on helping scam victims using persuasive messaging, Working Paper.
 *(with Talis Putnins, Robert Slonim, Inigo De Juan Razquin, and Zoey Isherwood)*
 
 We conduct a double-blind randomized experiment to determine which types of bank communications (i.e., treatments) are most effective in convincing investors that a given (scam) investment they just put money in is indeed a scam. Analyzing trust levels using Likert scales before and after the bank’s communications, we observe gender differences in response to one of the treatments. The stigma treatment, which reassures participants that many others have also fallen victim to similar “highly complex” scams, is particularly effective for women. This treatment is most successful in convincing female participants that their earlier investments were indeed scams. This finding suggests a potential link to concerns about perpetuating societal misconceptions that women are less proficient in the ”finance or investment world”. Our results have implications for targeted bank communications in addressing sensitive issues in post-scam scenarios. 
-
-
+#### Obscure disclosures: Strategic information concealment by substantial shareholders, Working Paper.
+*(with Talis Putnins, Sean Foley, and Vinay Patel)*
 #### On the predictive power of tweet sentiments and attention on Bitcoin*
 *(with Sandy Suardi and Bin Liu)* 
 
