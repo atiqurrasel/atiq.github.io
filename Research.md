@@ -4,7 +4,7 @@ title:  "Research"
 ---
 
 ### Working Papers:
-#### Contagious crime: How cryptocurrency manipulation spills into stocks ”, Working Paper.*(Under Review)*
+#### Contagious crime: How cryptocurrency manipulation spills into stocks ”, Working Paper.* (Under Review)*
 *(with Talis Putnins and Anirudh Dhawan)*
 
 We show that a type of market manipulation coordinated on pseudo-anonymous online forums (e.g., Telegram) and popularized in cryptocurrency markets has now spread to stock markets. These manipulations occur in Australia, India, and the US during 2020–2022 and generate millions of dollars of volume and large returns of 17%–107%. These manipulations are unique in that manipulators do not always explicitly deceive their victims. We also show that direct regulatory intervention in forums is effective in curbing this activity. The findings illustrate a negative externality of unregulated markets: breeding market manipulation that spills into other markets.
