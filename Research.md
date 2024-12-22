@@ -12,8 +12,13 @@ We show that a type of market manipulation coordinated on pseudo-anonymous onlin
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4506293">SSRN version</a>
 #### Obscure disclosures: Strategic information concealment by substantial shareholders, Working Paper.
 *(with Talis Putnins, Sean Foley, and Vinay Patel)*
+#### Experimental evidence on helping scam victims using persuasive messaging, Working Paper.
+*(with Talis Putnins, Robert Slonim, Inigo De Juan Razquin, and Zoey Isherwood)*
 
-#### On the predictive power of tweet sentiments and attention on bitcoin*
+We conduct a double-blind randomized experiment to determine which types of bank communications (i.e., treatments) are most effective in convincing investors that a given (scam) investment they just put money in is indeed a scam. Analyzing trust levels using Likert scales before and after the bank’s communications, we observe gender differences in response to one of the treatments. The stigma treatment, which reassures participants that many others have also fallen victim to similar “highly complex” scams, is particularly effective for women. This treatment is most successful in convincing female participants that their earlier investments were indeed scams. This finding suggests a potential link to concerns about perpetuating societal misconceptions that women are less proficient in the ”finance or investment world”. Our results have implications for targeted bank communications in addressing sensitive issues in post-scam scenarios. 
+
+
+#### On the predictive power of tweet sentiments and attention on Bitcoin*
 *(with Sandy Suardi and Bin Liu)* 
 
 This paper investigates the predictive power of information contained in social media tweets on bitcoin market dynamics. Using Valence Aware Dictionary for Sentiment Reasoning (VADER), we extract useful information from tweets and construct two factors – sentiment dispersion (SD) and investor attention (IA) – to test their predictive power. We show that investors face greater return volatility for rising sentiment dispersion associated with more significant market uncertainty. Further, IA is found to predict bitcoin trading volume but not returns and volatility. Finally, we design an IA-induced trading strategy that yields superior performance to the passive buy-and-hold strategy in 2018. However, it does not deliver superior performance in other years during the sample period suggesting that investor attention alone as a trading parameter does not produce superior performance over the long term.
