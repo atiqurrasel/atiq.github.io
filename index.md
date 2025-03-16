@@ -36,4 +36,4 @@ layout: home
   </div>
 </div>
 
-<h3>Coming next !!</h3>
+
