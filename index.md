@@ -26,7 +26,7 @@ layout: home
 
 <div class="row">
   <div class="left">
-    Atiqur Rahman Rasel is a final-year PhD candidate at the University of Technology Sydney with expertise in informed trading, market manipulation, cryptocurrencies, and behavioral finance. He has been awarded multiple small research grants and has been a graduate research assistant since 2020. Atiqur holds a Bachelor of Commerce (Honors) from the University of Wollongong, where he graduated with first-class honors.
+    Atiqur Rahman Rasel is a final-year PhD candidate at the University of Technology Sydney with expertise in informed trading, market manipulation, cryptocurrencies, and behavioral finance. He has been awarded multiple research grants and has been a graduate research assistant since 2020. Atiqur holds a Bachelor of Commerce (Honors) from the University of Wollongong, where he graduated with first-class honors.
     <br/><br/>
     <!-- <a href="cv.pdf">CV</a> -->
   </div>
