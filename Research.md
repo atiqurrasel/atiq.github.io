@@ -30,7 +30,7 @@ In Australia's $4 trillion superannuation market, super funds compete using sust
 
 This paper investigates the predictive power of information contained in social media tweets on bitcoin market dynamics. Using Valence Aware Dictionary for Sentiment Reasoning (VADER), we extract useful information from tweets and construct two factors – sentiment dispersion (SD) and investor attention (IA) – to test their predictive power. We show that investors face greater return volatility for rising sentiment dispersion associated with more significant market uncertainty. Further, IA is found to predict bitcoin trading volume but not returns and volatility. Finally, we design an IA-induced trading strategy that yields superior performance to the passive buy-and-hold strategy in 2018. However, it does not deliver superior performance in other years during the sample period suggesting that investor attention alone as a trading parameter does not produce superior performance over the long term.
 
-<a href="https://www.sciencedirect.com/science/article/pii/S1059056022000375">published version</a>
+<a href="https://www.sciencedirect.com/science/article/pii/S1059056022000375">Published version</a>
 
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
