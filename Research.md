@@ -23,7 +23,7 @@ Using a broad sample of substantial shareholder trades, we assess the concealmen
 #### From Disclosure to Deception: Detecting Greenwashing using LLM, Working Paper.
 *(with Talis Putnins)*
 
-In Australia's $4 trillion superannuation market, super funds compete using sustainable investment products, creating incentives for greenwashing. We exploit the first ASIC greenwashing prosecution as a quasi-natural experiment, analyzing linguistic changes in Product Disclosure Statements. Our analysis indicates approximately 35% of funds exhibit patterns consistent with greenwashing. We further develop a Large Language Model (LLM) based ESG index that predicts the likelihood of greenwashing by super funds. Our results have implications for regulators and investors to better scrutinize sustainability claims.
+In Australia's $4T superannuation market, competition over sustainable products incentivizes greenwashing. We exploit the Australian Securities and Investments Commission's (ASIC) inaugural greenwashing prosecution as a quasi-natural experiment, analyzing Product Disclosure Statements (PDS). Post-prosecution, 35% of funds reduce their ESG-related disclosures, a pattern consistent with unwinding prior greenwashing.  We then test Large Language Models (LLMs) as supervisory tools for regulators to assess greenwashing risk. We find that advanced reasoning models like Gemini 2.5 Pro accurately identify high-risk documents, whereas base models like GPT 4o provide inconsistent or mediocre risk assessments. Our results have implications for regulators and investors to better scrutinize sustainability claims.
 
 #### On the predictive power of tweet sentiments and attention on Bitcoin*
 *(with Sandy Suardi and Bin Liu)* 
