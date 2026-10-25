@@ -26,7 +26,7 @@ layout: home
 
 <div class="row">
   <div class="left">
-    Atiqur Rahman Rasel is a researcher with expertise in informed trading, market manipulation, cryptocurrencies, and behavioral economics. He has been awarded multiple research grants. Atiqur is also full-time analyst and consultant for a non-profit organization. Atiqur holds a PhD from UTS. He did a Bachelor of Commerce (Honors) from the University of Wollongong, where he graduated with first-class honors.
+    Atiqur Rahman Rasel is a researcher with expertise in informed trading, market manipulation, cryptocurrencies, and behavioral economics. He has been awarded multiple research grants. Atiqur is also a full-time analyst and consultant for a non-profit organization. Atiqur holds a PhD from UTS. He also holds a Bachelor of Commerce (Honors) from the University of Wollongong, where he graduated with first-class honors.
     <br/><br/>
     <!-- <a href="cv.pdf">CV</a> -->
   </div>
