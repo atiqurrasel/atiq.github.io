@@ -20,6 +20,7 @@ A substantial proportion of scam victims refuse to acknowledge having been scamm
 
 Using a broad sample of substantial shareholder trades, we assess the concealment of private information through complex disclosures and its impact on market quality. Trades which are obscured in a handwritten format display characteristics expected of an informed trader, resulting in a significant market reaction upon announcement (i.e., stocks associated with handwritten disclosures have a cumulative abnormal return exceeding 12% over one year). Such complex disclosures are more common in stocks with higher levels of information asymmetry, are more likely to be released during high market volatility, and have longer release delays. Further, we observe a significant post-announcement drift in returns following handwritten filings, indicating that obscure informed disclosures undermine market efficiency. 
 
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6532218">SSRN version</a>
 #### From Disclosure to Deception in the Super Industry, Working Paper.
 *(with Talis Putnins)*
 
